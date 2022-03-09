@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9EdVKFdvG+tRuyPeP03opsT1kr0AscsnAJcGIXxuuYmeIAgFiOxNekGpCwYE9DKqlH7OctBlSt6QBRp+sc+Jww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2085072\\source\\repos\\Cloud-Day7_2ndHandsOn\\Cloud-Day7_2ndHandsOn\\Cloud-Day7_2ndHandsOn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2085072\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
